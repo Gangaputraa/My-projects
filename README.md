@@ -1,4 +1,4 @@
-# 📁 Professional Portfolio – [Your Name]
+# 📁 Professional Portfolio – Vashisth Patel
 
 Welcome! This GitHub repository serves as a showcase of my academic and practical work in both **Business** and **Engineering** domains.
 
